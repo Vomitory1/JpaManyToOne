@@ -8,5 +8,6 @@ public class JpaManyToOneApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JpaManyToOneApplication.class, args);
+		
 	}
 }
